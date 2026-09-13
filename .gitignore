@@ -1,0 +1,4 @@
+build/
+*.exe
+compiler.sh
+decompiler.sh
