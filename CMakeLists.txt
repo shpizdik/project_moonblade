@@ -16,4 +16,3 @@ add_subdirectory(src/engine/raylib)
 
 add_executable(Moonblade src/game/main.cpp)
 target_link_libraries(Moonblade PRIVATE raylib)
-
